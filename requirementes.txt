@@ -1,6 +1,6 @@
 streamlit
 pandas
-matplotlib
+matplotlib.pyplot
 openpyxl
 python-docx
 docx
